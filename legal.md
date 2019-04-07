@@ -66,6 +66,13 @@ Place of processing: United States – [Privacy Policy][3] – [Opt out][4]. Pri
 
 <br>
 
+# 3rd party code
+Since I’m not a developer I have to rely heavily on open source projects to make some features of this Blog possible.  
+Find a (may not complete) list of those projects below:
+- [AnchorJS](https://github.com/bryanbraun/anchorjs) from [bryanbraun](https://github.com/bryanbraun)
+- [Vanilla Back To Top](https://github.com/vfeskov/vanilla-back-to-top) from [vfeskov](https://github.com/vfeskov)
+- [Simple-Jekyll-Search](https://github.com/christian-fei/Simple-Jekyll-Search) from [christian-fei](https://github.com/christian-fei)
+
 
 Latest update: August 3, 2018
 
