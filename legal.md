@@ -74,7 +74,7 @@ Find a (may not complete) list of those projects below:
 - [Simple-Jekyll-Search](https://github.com/christian-fei/Simple-Jekyll-Search) from [christian-fei](https://github.com/christian-fei)
 
 
-Latest update: August 3, 2018
+Latest update: April 7, 2019
 
 [1]: https://www.google.com/intl/en/policies/privacy/
 [2]: https://tools.google.com/dlpage/gaoptout?hl=en
