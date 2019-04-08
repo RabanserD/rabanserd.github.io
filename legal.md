@@ -72,6 +72,8 @@ Find a (may not complete) list of those projects below:
 - [AnchorJS](https://github.com/bryanbraun/anchorjs) from [bryanbraun](https://github.com/bryanbraun)
 - [Vanilla Back To Top](https://github.com/vfeskov/vanilla-back-to-top) from [vfeskov](https://github.com/vfeskov)
 - [Simple-Jekyll-Search](https://github.com/christian-fei/Simple-Jekyll-Search) from [christian-fei](https://github.com/christian-fei)
+- [Cookie Consent](https://cookieconsent.insites.com/) by Silktide Ltd
+- [Font Awesome](https://fontawesome.com/) by Fonticons, Inc.
 
 
 Latest update: April 7, 2019
