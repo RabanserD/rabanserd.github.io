@@ -76,7 +76,7 @@ Find a (may not complete) list of those projects below:
 - [Font Awesome](https://fontawesome.com/) by Fonticons, Inc.
 
 
-Latest update: April 7, 2019
+Latest update: April 8, 2019
 
 [1]: https://www.google.com/intl/en/policies/privacy/
 [2]: https://tools.google.com/dlpage/gaoptout?hl=en
