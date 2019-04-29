@@ -33,7 +33,7 @@ In order to install Zabbix you will need to add the Zabbix repository to your sy
 
 ### Install Zabbix
 The following command will install Zabbix (Server, Web frontend & agent) including some of its dependencies (MariaDB, httpd, PHP ecc. - basically the LAMP stack)  
-You will need to install MariaDB on your own, check out [this blog post]({% post_url 2018-10-12-How-to-install-MariaDB-v10.3-on-CentOS-7 %}) for guidance on that.
+If you want to install MariaDB on your own, check out [this blog post]({% post_url 2018-10-12-How-to-install-MariaDB-v10.3-on-CentOS-7 %}) for guidance on that.
 ```
 [root@centos ~]# yum install zabbix-server-mysql zabbix-web-mysql zabbix-agent
 ```
