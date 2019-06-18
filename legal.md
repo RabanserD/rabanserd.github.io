@@ -66,7 +66,7 @@ Place of processing: United States – [Privacy Policy][3] – [Opt out][4]. Pri
 
 <br>
 
-# 3rd party code
+# 3rd party code / acknowledgements
 Since I’m not a developer I have to rely heavily on open source projects to make some features of this Blog possible.  
 Find a (may not complete) list of those projects below:
 - [AnchorJS](https://github.com/bryanbraun/anchorjs) from [bryanbraun](https://github.com/bryanbraun)
@@ -75,8 +75,11 @@ Find a (may not complete) list of those projects below:
 - [Cookie Consent](https://cookieconsent.insites.com/) by Silktide Ltd
 - [Font Awesome](https://fontawesome.com/) by Fonticons, Inc.
 
+Additionaly I want to acknowledge the following:
+- This site is powered by [Jeykll](https://jekyllrb.com/) a "*simple, blog-aware, static site generator*" hosted with [GitHub Pages](https://pages.github.com/) without any charge.
 
-Latest update: April 8, 2019
+
+Updated: June 18, 2019
 
 [1]: https://www.google.com/intl/en/policies/privacy/
 [2]: https://tools.google.com/dlpage/gaoptout?hl=en
