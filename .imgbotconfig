@@ -3,6 +3,7 @@
         "/assets/certs/*",
         "assets/certs/*",
         "/rafts/assets/certs/*",
+        "/_includes/*",
         "rafts/assets/certs/*",
         "favicon-256x256.png",
         "android-icon-192x192.png",
@@ -17,6 +18,8 @@
         "apple-icon-72x72.png",
         "apple-icon-114x114.png",
         "apple-icon-76x76.png",
-        "404.jpg"
+        "404.jpg",
+        "/assets/minima-social-icons.svg",
+        "/rafts/assets/minima-social-icons.svg"
     ]
 }
