@@ -11,7 +11,7 @@ permalink: /search/
 </div>
 
 <!-- Script pointing to search-script.js -->
-<script src="/js/search-script.js" type="text/javascript"></script>
+<script src="/js/simple-jekyll-search-1.7.12.min.js" type="text/javascript"></script>
 
 <!-- Configuration -->
 <script>
