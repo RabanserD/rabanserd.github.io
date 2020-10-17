@@ -75,7 +75,7 @@ Find a (may not complete) list of those projects below:
 - [Cookie Consent](https://cookieconsent.insites.com/) by Silktide Ltd
 - [Font Awesome](https://fontawesome.com/) by Fonticons, Inc.
 
-Additionaly I want to acknowledge the following:
+Additionally I want to acknowledge the following:
 - This site is powered by [Jeykll](https://jekyllrb.com/) a "*simple, blog-aware, static site generator*" hosted with [GitHub Pages](https://pages.github.com/) without any charge.
 
 
