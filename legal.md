@@ -30,7 +30,21 @@ None. We don't store any data. We can't, this is just a Blog hosted on GitHub Pa
 
 ## Detailed information on the processing of Personal Data collected by 3rd party services
 
-Personal Data is collected for the following purposes and using the following services:
+Personal Data is collected for the following purposes and using the following services:  
+
+
+### Microsoft Clarity
+
+Clarity is a free user behavior analytics tool that helps the site owner understand how users are interacting with the website through session replays and heatmaps.
+
+Microsoft Clarity s is a web analysis service provided by the Microsoft Corporation.
+Microsoft/Clarity has access to the data, but does not sell the data.
+
+Personal Data collected: User interactions on the website such as how the page has rendered and what interactions the user had on the website such as mouse movements, clicks, scrolls, etc.
+
+Place of processing: Microsoft Azure cloud services – [Privacy Policy][1] – [Opt Out][2].
+
+<br>
 
 
 ### Google Analytics (Google Inc.)
@@ -42,7 +56,7 @@ Google may use the data collected to contextualize and personalize the ads of it
 
 Personal Data collected: Cookies and Usage Data. 
 
-Place of processing: United States – [Privacy Policy][1] – [Opt Out][2]. Privacy Shield participant. 
+Place of processing: United States – [Privacy Policy][3] – [Opt Out][4]. Privacy Shield participant. 
 
 <br>
 
@@ -58,7 +72,7 @@ Disqus is a content commenting service provided by Big Heads Labs Inc.
 
 Personal data collected: Cookies, Usage Data and various types of data as specified in the privacy policy of the service. 
 
-Place of processing: United States – [Privacy Policy][3] – [Opt out][4].
+Place of processing: United States – [Privacy Policy][5] – [Opt out][6].
 
 <br>
 
@@ -81,7 +95,9 @@ Additionally I want to acknowledge the following:
 
 Updated: June 18, 2019
 
-[1]: https://www.google.com/intl/en/policies/privacy/
-[2]: https://tools.google.com/dlpage/gaoptout?hl=en
-[3]: https://help.disqus.com/customer/portal/articles/466259-privacy-policy
-[4]: https://help.disqus.com/customer/portal/articles/1657951
+[1]: https://docs.microsoft.com/en-us/clarity/faq#privacy
+[2]: https://docs.microsoft.com/en-us/clarity/faq#is-there-an-option-for-do-not-track-setting
+[3]: https://www.google.com/intl/en/policies/privacy/
+[4]: https://tools.google.com/dlpage/gaoptout?hl=en
+[5]: https://help.disqus.com/customer/portal/articles/466259-privacy-policy
+[6]: https://help.disqus.com/customer/portal/articles/1657951
