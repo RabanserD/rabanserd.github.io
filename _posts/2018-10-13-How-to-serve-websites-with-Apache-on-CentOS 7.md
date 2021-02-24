@@ -57,7 +57,7 @@ If you followed everything correctly, you should see "The Testing 123..." when n
 ![Testing 123...](/assets/posts/2018-10-13-how-to-serve-websites-with-apache-on-centos7/1_Testing123.png)
 
 ### Initial Apache setup
-So, your server could now serve a website in the root path /var/www/html/*, but you might want to use the web server to serve multiple sites which accessible by different FQDNS (at least that's how I use my servers). In order to do that you firstly want to disable the Apache Welcome page by placing a sample index.html file in the /var/www/html folder.  
+So, your server could now serve a website in the root path /var/www/html/*, but you might want to use the web server to serve multiple sites which are accessible by different FQDN's (at least that's how I use my servers). In order to do that you firstly want to disable the Apache Welcome page by placing a sample index.html file in the /var/www/html folder.  
 I prefer a simple index.html file that redirects users to my main website (in case someone tries to access the Servers IP address / FQDN ecc.)
 
 ```
