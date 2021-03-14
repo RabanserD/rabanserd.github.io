@@ -93,7 +93,7 @@ Additionally I want to acknowledge the following:
 - This site is powered by [Jeykll](https://jekyllrb.com/) a "*simple, blog-aware, static site generator*" hosted with [GitHub Pages](https://pages.github.com/) without any charge.
 
 
-Updated: June 18, 2019
+Updated: February 24, 2021
 
 [1]: https://docs.microsoft.com/en-us/clarity/faq#privacy
 [2]: https://docs.microsoft.com/en-us/clarity/faq#is-there-an-option-for-do-not-track-setting
