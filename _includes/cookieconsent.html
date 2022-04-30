@@ -1,22 +1,20 @@
-<link rel="stylesheet" type="text/css" href="/js/cookieconsent.min-3.1.0.css" />
-<script src="/js/cookieconsent.min-3.1.0.js"></script>
+<link rel="stylesheet" type="text/css" href="/js/cookieconsent.min-3.1.1.css" />
+<script src="/js/cookieconsent.min-3.1.1.js"></script>
 <script>
-window.addEventListener("load", function(){
 window.cookieconsent.initialise({
   "palette": {
     "popup": {
       "background": "#000"
     },
     "button": {
-      "background": "transparent",
-      "text": "#f1d600",
-      "border": "#f1d600"
+      "background": "#f1d600"
     }
   },
+  "theme": "classic",
   "position": "bottom-left",
+  "type": "opt-out",
   "content": {
-    "message": "This website may use cookies to ensure you get the best experience on our website.",
     "href": "https://www.rabanser.tech/legal/"
   }
-})});
+});
 </script>
