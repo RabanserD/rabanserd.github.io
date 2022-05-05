@@ -9,10 +9,6 @@ I'm Daniel and this is my tech Blog, there's not much to see here. I might post 
 
 I hold a few certifications, so this might be a good place to showcase them:
 
-Contact me on Linkedin:
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="rabanserd" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://linkedin.com/in/rabanserd?trk=profile-badge">Daniel Rabanser</a></div>
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-
 
 |Certification| Link |
 |--|--|
